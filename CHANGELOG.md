@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- README: add the Deploy on Railway button for the published template (https://railway.com/deploy/listmonk-4). No change to the app or the image.
+
 ## v6.2.0 (2026-11-16)
 
 - First release of the template: listmonk v6.2.0 (`listmonk/listmonk:v6.2.0@sha256:f535d59e14991337a9f2d570273685378ae86b0d7698c3e00da444e3bc205286`) with Railway Postgres.

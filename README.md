@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/listmonk-4?utm_medium=integration&utm_source=button&utm_campaign=listmonk)
+
 # listmonk on Railway
 
 This repo packages [listmonk](https://listmonk.app), the self-hosted newsletter and mailing list manager, as a Railway template.
